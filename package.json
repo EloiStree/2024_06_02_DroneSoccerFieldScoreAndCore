@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.basiccoredronesoccer",                              
+  "displayName": "Drone Soccer Field Score And Core",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This Package is a simple Soccer Drone for XR with the basic to create a solo or multiplayer game from it. Warning it use some other packages.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_06_02_DroneSoccerFieldScoreAndCore.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
