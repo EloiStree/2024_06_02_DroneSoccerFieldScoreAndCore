@@ -1,12 +1,10 @@
 
 {                                                                   
-            "name": "be.eloistree.basiccoredronesoccerEditor",          
-    "references": ["be.eloistree.basiccoredronesoccer"
+            "name": "be.elab.basiccoredronesoccer",          
+    "references": [
 ],                                                              
     "optionalUnityReferences": [],                                  
-    "includePlatforms": [                                           
-        "Editor"                                                    
-    ],                                                              
+    "includePlatforms": [],                                                  
     "excludePlatforms": [],                                         
     "allowUnsafeCode": false,                                       
     "overrideReferences": false,                                    
